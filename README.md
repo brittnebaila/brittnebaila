@@ -1,6 +1,6 @@
-# Hi, I'm Brittne 👋
-
-### Software Engineering • GIS • Civic Technology
+<p align="center">
+  <img src="github-banner.png" alt="Brittne Valdivia — Software Engineering, GIS, and Civic Technology" width="100%">
+</p>
 
 I'm a software engineering student exploring the intersection of **software development, GIS, and place-based technology**.
 
