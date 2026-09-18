@@ -4,7 +4,7 @@
 
 I'm a software engineering student exploring the intersection of **software development, GIS, and place-based technology**.
 
-I'm especially interested in building tools that help people **navigate, understand, and connect with the places around them** — from better bicycle and pedestrian experiences to interactive maps that bring local history and stories into the landscape.
+My main focus is building tools that help people **navigate, understand, and connect with the places around them** — from better bicycle and pedestrian experiences to interactive maps that bring local history and stories into the landscape.
 
 I'm also exploring how **AI can enhance spatial applications**, including smarter routing, location-aware experiences, and new ways of interacting with geographic and historical data.
 
